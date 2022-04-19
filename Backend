@@ -13,6 +13,7 @@ def init():
 global model,graph
 # load the pre-trained Keras model
 model = load_model('sentiment_analysis.h5') graph = tf.get_default_graph()
+
 #########################Code for Sentiment Analysis @app.route('/', methods=['GET', 'POST'])
 def home():
     return render_template("home.html")
