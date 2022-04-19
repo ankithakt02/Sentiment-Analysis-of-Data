@@ -1,6 +1,7 @@
 # Sentiment-Analysis-of-Data
 
-Sentiment analysis is the process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
+Sentiment analysis is the process of classifying whether a block of text is positive, negative, or, neutral. Sentiment analysis is the contextual mining of words that indicates the social sentiment of a brand and also helps the business to determine whether the product they are manufacturing is going to make a demand in the market or not. The goal which Sentiment analysis tries to gain is to analyze people’s opinions in a way that can help the businesses expand. It focuses not only on polarity (positive, negative & neutral) but also on emotions (happy, sad, angry, etc.).
+
 
 OBJECTIVE: 
 To analyze the sentences for determining emotions like  : 
@@ -10,7 +11,6 @@ o Texts containing positive emotions; happiness, amusement or joy,
 o Texts containing negative emotions; disappointment, anger or disappointment,
 
 o Texts containing neutral emotions.
-
 
 
 This is done by using supervised learning techniques such as Naive Bayes, Support Vector Machines and Long Short-Term Memory (LSTM) algorithm. 
